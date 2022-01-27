@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name dot_flipper)(type Legacy)(uri ${KIPRJMOD}/dot_flipper.lib)(options "")(descr ""))
+  (lib (name dot_flipper-rescue)(type Legacy)(uri ${KIPRJMOD}/dot_flipper-rescue.lib)(options "")(descr ""))
+  (lib (name dot_flipper_assambly-rescue)(type Legacy)(uri ${KIPRJMOD}/dot_flipper_assambly-rescue.lib)(options "")(descr ""))
+)
